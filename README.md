@@ -24,3 +24,6 @@ Tested on:
 - Run the script with elevated permissions to avoid the script not being able to copy some files due to lacking permissions
 - If copying system files or program files, copying some of these will fail due to the file being used
   - It is advised to close all programs before starting the script
+
+## Reach out!
+If you want to report a bug or request a feature, create an issue. If you know how to do it yourself, you can also make a change yourself and open a pull request.
