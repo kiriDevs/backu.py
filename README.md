@@ -26,4 +26,4 @@ Tested on:
   - It is advised to close all programs before starting the script
 
 ## Reach out!
-If you want to report a bug or request a feature, create an issue. If you know how to do it yourself, you can also make a change yourself and open a pull request.
+If you want to report a bug or request a feature, create an issue. If you know how to do it yourself, you can also make a change yourself and open a pull request. You can also ask questions via the issues tab.
