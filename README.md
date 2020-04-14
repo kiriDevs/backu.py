@@ -2,7 +2,7 @@
 An easy-to-use python backup-script.
 
 ## Where you can use it
-Windows operating systems having both powershell and cmd.exe
+Windows operating systems having both powershell and cmd.exe.
 Tested on:
 - Windows 10 Home
 
